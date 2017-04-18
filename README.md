@@ -7,4 +7,11 @@ Created React components, worked with helper functions, and utilized the React m
 Used Node, Express and MongoDB so that users can save articles to read later.
 
 ## NPM Packages
+- body-parser
+- express
+- mongoose
+- morgan
+- react
+- react-dom
+- react-router
 
